@@ -11,14 +11,14 @@ Este é meu primeiro plugin, talvez seja um dos piores plugins de slider, porém
 });`
 
 * Podemos configurar algumas coisas:
-`$('.banner').robSlider({`
+`$('.banner').robSlider({
 		//tamanho das imagens do banner.
 		img_largura:992,
 		img_altura:265,
 		//margem dos botões next e prev
 		margem_np:30,
 		//altura dos botões next e prev
-		altura_bt:72,
+		altura_bt:72,afa
 		//largura dos botões next e prev
 		largura_bt:25
 	});`
