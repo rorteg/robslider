@@ -1,0 +1,8 @@
+.banner_carregando{margin:0 auto; padding-top:119px}
+
+.banner_prev{background:url(../images/flexa_banner_left.png) center;width:25px;height:72px;}
+.banner_next{background:url(../images/flexa_banner_right.png) center;width:25px;height:72px}
+.clickbanner{width:12px;height:12px;background:url(../images/bt-banner-left.png);display:block;float:left;margin-left:10px;text-decoration:none}
+.clickbanner.active{background:url(../images/bt-banner-active.png)}
+
+#menu-banner{position:absolute;}
